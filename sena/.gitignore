@@ -1,6 +1,9 @@
 # created by virtualenv automatically
 bin
+build/
 etc
 lib
 share/*
 .idea/
+scrapy.cfg
+__pycache__/
